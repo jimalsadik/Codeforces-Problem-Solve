@@ -1,7 +1,7 @@
 # Codeforces-Problem-Solve
 Codeforces Problem Solve for the students of [Bangladesh Army University of Engineering & Technology (BAUET).](http://bauet.ac.bd/)
 
-## Developing Tools: 
+## Tools: 
 
 * C
 * C++
